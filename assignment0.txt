@@ -1,0 +1,61 @@
+Who developed python programming language?
+Guido van Rossum
+
+Which type of programming does python support?
+Object-oriented programming and structured programming
+
+Is python case sensitive when dealing with identifiers?
+Yes, Python is a case−sensitive programming language
+
+What is the correct extention of the python file?
+.py, .pyi, .pyc, .pyd, .pyo, .pyw, and .pyz.
+
+Is python code compiled or interpreted?
+yes
+
+Name a few block of code used to define in python language?
+If statements, for loop , while loop, function, classes
+
+State a character used to give single line comment in python?
+#
+
+Mention function which can help us to find the version of python that we currently working on?
+sys.version
+
+Python supports the creation of anonymous functions at runtime, using a construct called ________
+lambda
+
+What does pip stand for python?
+package manager for Python packages
+
+Mention a few built-in function in python?
+print() function, input() function, type() function, list() function, len() function
+
+What is the maximum possible length of an identifier in python?
+79 characters
+
+What are the benefits of using python?
+- easy to use
+- flexible
+- open source
+- extensive library
+- dynamicaly typed
+- Write less
+
+How is memory managed in python?
+The Python memory manager is involved only in the allocation of the bytes object returned as a result
+
+How to install python on windows and set path variables?
+steps: 
+1. Download the latest version of Python from the official website (https://www.python.org/downloads/windows/). 
+2. Run the installer and choose the option to install Python for all users. 
+3. Select the installation directory and click on “Install”. 
+4. After the installation is complete, open the Start menu and search for “Edit the system environment variables”. 
+5. Click on the button labeled “Environment Variables”. 
+6. Under “System Variables”, scroll down and find the variable named “Path”. 
+7. Select the “Path” variable and click on “Edit”. 
+8. Click on “New” and add the path to the directory where Python is installed (usually, C:\Python\Python{version}\;). 
+9. Click “OK” to save the changes and close all windows. Python is now installed on your Windows machine, and path variables are set up properly. You can verify the Python installation by opening the command prompt and typing the following command: python --version. If Python is installed correctly, the version number will be displayed on the screen.
+
+Is indentation required in python?
+Yes, indentation is required in python
